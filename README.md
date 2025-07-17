@@ -32,19 +32,11 @@ Yet, traditional deep linking in SwiftUI is:
 
 ---
 
-## 📦 Installation
 
-### Swift Package Manager
+## 📥 Installation
 
-```swift
-.package(url: "https://github.com/javedmultani16/DeepLinkRouterKit.git", from: "1.0.0")
-```
-
-Then import:
-
-```swift
-import DeepLinkRouterKit
-```
+1. Drag `DeepLinkRouterKit.swift` into your Xcode project.
+2. Use it in your SwiftUI or UIKit views as needed.
 
 ---
 

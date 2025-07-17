@@ -37,7 +37,7 @@ Yet, traditional deep linking in SwiftUI is:
 ### Swift Package Manager
 
 ```swift
-.package(url: "https://github.com/your-username/DeepLinkRouterKit.git", from: "1.0.0")
+.package(url: "https://github.com/javedmultani16/DeepLinkRouterKit.git", from: "1.0.0")
 ```
 
 Then import:
